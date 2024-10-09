@@ -1,0 +1,20 @@
+{
+    "Settings": {
+        "useTgBot": false,
+        "tgBOToken": "7945846890:AAF46GJYEkkL4ruPtTd3BL1B_DzpVVPGM1c",
+        "tgChatID": 7433830999,
+        
+        "AutoUpgrade": true,
+        "Upgrage_reChargeSpeed": true,
+        "Upgrade_energyLimit": true,
+        "Upgrade_paintReward": true
+    },
+
+    "Accs": {
+        "Acc1":{ 
+            "authorization": "initData user=%7B%22id%22%3A7433830999%2C%22first_name%22%3A%22Dekkan%20Dogs%20%F0%9F%8D%85%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Nxdndndnnd%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-3488578527035209365&chat_type=sender&auth_date=1728463781&hash=8d0b903acb9b82674a0f515cdcb90fd72b7f7c3a5b7e5a28e8e4c0b6deb040f3", 
+            "proxy": "phamthevung1806:BcrJB3QrjS@95.164.151.170:50100",
+            "proxy_type": "socks5"
+        }
+    }
+}
